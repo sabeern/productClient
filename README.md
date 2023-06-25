@@ -1,6 +1,6 @@
 # productClient
 
-This project was created with vite
+This project was created with vite and react.
 
 ## In the project directory, you can run:
 
